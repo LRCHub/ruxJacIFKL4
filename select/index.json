@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "幸せ",
+  "base_artist": "kobasolo",
+  "createdAt": "2026-02-18T15:34:07.163670Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幸せ",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_幸せ_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幸せ。",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_幸せ。_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "幸せ。 - From THE FIRST TAKE",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/03_幸せ。_-_From_THE_FIRST_TAKE_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "幸せ",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/04_幸せ_back_number.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "幸せ",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/05_幸せ_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "幸せ",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/06_幸せ_back_number.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "幸せ",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/07_幸せ_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "幸せ",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": true,
+      "path": "select/08_幸せ_Ryokuoushoku_Shakai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "幸せ",
+      "artist": "SHE'S",
+      "has_synced": true,
+      "path": "select/09_幸せ_SHE'S.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "幸せ - Happiness",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/10_幸せ_-_Happiness_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "幸せ - Happiness",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/11_幸せ_-_Happiness_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "幸せ - Shiawase",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/12_幸せ_-_Shiawase_back_number.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "幸せ",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/13_幸せ_back_number.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "幸せ。",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/14_幸せ。_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "幸せ。 - From THE FIRST TAKE",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/15_幸せ。_-_From_THE_FIRST_TAKE_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "幸せ。",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/16_幸せ。_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "幸せ (instrumental)",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/17_幸せ_(instrumental)_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幸せ feat.藤川千愛",
+      "artist": "kobasolo",
+      "has_synced": false,
+      "path": "select/pl_01_幸せ_feat.藤川千愛_kobasolo.txt"
+    }
+  ]
+}
